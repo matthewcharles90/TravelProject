@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TravelProject.git/static/css/main.a8de2aac.css",
+    "main.js": "/TravelProject.git/static/js/main.c5e48367.js",
+    "index.html": "/TravelProject.git/index.html",
+    "main.a8de2aac.css.map": "/TravelProject.git/static/css/main.a8de2aac.css.map",
+    "main.c5e48367.js.map": "/TravelProject.git/static/js/main.c5e48367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8de2aac.css",
+    "static/js/main.c5e48367.js"
+  ]
+}
